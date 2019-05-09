@@ -1,0 +1,16 @@
+#root {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.home {
+    width: 300px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.list-group li{
+    word-wrap: break-word;
+}
